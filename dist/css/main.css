@@ -430,11 +430,11 @@
     background: transparent;
     text-align: right;
   }
-  .nav .menu-nav__item {
+  .nav .menu-nav_item {
     display: inline;
     padding-right: 1.5rem;
   }
-  .nav .menu-nav__link {
+  .nav .menu-nav_link {
     font-size: 1.5rem;
   }
   .about_bio {

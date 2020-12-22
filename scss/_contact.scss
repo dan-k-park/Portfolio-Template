@@ -20,7 +20,7 @@
   }
 
   &_list {
-    display:grid;
+    display: grid;
     grid-template-columns: 1fr;
     grid-gap: 2rem;
     font-size: 1.5rem;
@@ -31,4 +31,3 @@
     margin-top: 2rem;
   }
 }
-
